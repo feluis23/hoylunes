@@ -81,7 +81,7 @@
 	<?php $comments_args = array(
 	
 		'comment_notes_before' => 
-			'<p class="comment-notes">' . __( 'Your email address will not be published.', 'baskerville' ) . '</p>',
+			'<p class="comment-notes">' . __( 'Su dirección de correo no se hará público.', 'baskerville' ) . '</p>',
 	
 		'comment_field' => 
 			'<p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="6" required>' . '</textarea></p>',
